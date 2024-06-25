@@ -1,9 +1,4 @@
-## 202153290023 -BOUDAD-MOSTAPHA ##
-***************************************
-## JAVASCRIPT PROJECT FOR SOFTWARE DEVELOPEMENT AND REFACTORING ##
-***************************************
-## BIG THANKS TO TEACHER WANG HAIBIN 🙂 ##
-***************************************
+
 # Mostapha BOUDAD Portfolio Website #
 
 This portfolio website serves as a digital resume and project showcase. It includes sections for about me, contact information, login and registration forms, and various projects demonstrating JavaScript functionalities.
@@ -38,4 +33,7 @@ LITERALLY NO FRAMEWORKS, NO EXTERNAL LIBRARIES TEACHER 😇.
 
 **************************************************
 Github: https://github.com/moskanoro
+**************************************************
+
+this project is open source, enjoy !!
 
