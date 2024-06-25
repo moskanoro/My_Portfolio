@@ -1,5 +1,5 @@
 
-# Mostapha BOUDAD Portfolio Website #
+# MOSKANOR Portfolio Website #
 
 This portfolio website serves as a digital resume and project showcase. It includes sections for about me, contact information, login and registration forms, and various projects demonstrating JavaScript functionalities.
 
