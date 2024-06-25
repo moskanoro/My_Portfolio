@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+
+<head>
+
+    <meta
+     charset="UTF-8">
+
+    <meta 
+    name="viewport" 
+    content="width=device-width, initial-scale=1.0">
+
+    <title>Mostapha BOUDAD Library</title>
+
+
+    <link rel="stylesheet" href="CSS/lib_style11.css">
+
+</head>
+
+<body>
+
+
+    <main>
+     <button 
+     id="newBookButton" 
+     class="btn">Add New Book
+    </button>
+
+
+        <div 
+        class="booksContainer" 
+        id="booksContainer">
+    </div>
+
+
+        <div 
+        class="noBooks">No books in your library</div>
+
+        <div 
+        id="newBookModal" 
+        class="newBookModal">
+
+        <div 
+        class="newBookModalContent">
+
+           <span 
+            class="modalClose">&times;</span>
+
+            <form 
+            id="addBookForm">
+
+                <h1>Add a New Book</h1>
+
+
+             <label
+                 for="newBookTitle">Title</label>
+
+            <input 
+                type="text" id="newBookTitle"
+                 name="newBookTitle">
+
+              <label 
+                for="newBookAuthor">Author</label>
+
+               <input 
+           type="text" 
+                id="newBookAuthor" 
+                name="newBookAuthor">
+
+           <label 
+                for="newBookNumPages">Number of Pages</label>
+
+             <input 
+                type="number" 
+                id="newBookNumPages"
+                 name="newBookNumPages">
+
+                  <label 
+                for="newBookReadStatus">Read</label>
+
+             <input
+                 type="checkbox"
+                  id="newBookReadStatus"
+                   name="newBookReadStatus">
+
+             <button 
+                type="submit" 
+                class="btn">Add Book</button>
+            
+            </form>
+        </div>
+    </div>
+    </main>
+
+
+   
+    <script
+     src="scripts/app1library.js"></script>
+
+</body>
+
+</html>
