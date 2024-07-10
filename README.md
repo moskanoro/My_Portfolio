@@ -11,7 +11,7 @@ try to register and login to get into 4 of my small Javascript projects!
 - **CSS3**: For styling and layout.
 - **JavaScript**: For adding interactivity and dynamic content.
 
-LITERALLY NO FRAMEWORKS, NO EXTERNAL LIBRARIES TEACHER 😇. 
+LITERALLY NO FRAMEWORKS, NO EXTERNAL LIBRARIES😇. 
 
 # JS Project and Features #
 
